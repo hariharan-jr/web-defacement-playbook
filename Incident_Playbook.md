@@ -14,4 +14,8 @@ Website Defacement (Unauthorized modificatio of website content)
 - ## Step by step response:
 
 - ## 1. DETECTION:
-- 
+- Web defacement can be detected when the URL of the website remains the same,but the content has been changed without authorization. This usually includes messages from hackers, offensive content or replaced images.
+
+**- Example of Defaced Website:**
+assets/Defacemt Example.png
+
