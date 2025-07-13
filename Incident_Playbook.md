@@ -13,12 +13,12 @@ Website Defacement (Unauthorized modification of website content)
 
 - ## Step by step response:
 
-**- ## 1. PREPARATION**
+**-  1. PREPARATION**
 - Maintain backups of web assets and databases
 - Implement monitoring tools for website integrity
 - Define escalation paths and response roles
 
-- ## 2. DETECTION:
+**- 2. DETECTION:**
 - Web defacement can be detected when the URL of the website remains the same,but the content has been changed without authorization. This usually includes messages from hackers, offensive content or replaced images.
 
 - Example of Defaced Website: https://github.com/hariharan-jr/web-defacement-playbook/blob/e7afe5304215ef83cf7dd119956f42700e89eab7/assets/Defacement_Example.png
