@@ -31,7 +31,7 @@ Website Defacement (Unauthorized modification of website content)
 
 The Sitelock SMART product helps track daily file activity, showing how many files were uploaded or modified each day, making it easier to detect unusual patterns.
 
-**## 3.Containment:**
+**3.CONTAINMENT:**
 Once a defacement is detected, the immediate goal is to stop the attack, minimize the impact and begin recovery.
 
 **Immediate Steps:**
