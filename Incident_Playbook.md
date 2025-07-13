@@ -18,3 +18,11 @@ Website Defacement (Unauthorized modificatio of website content)
 
 - Example of Defaced Website: https://github.com/hariharan-jr/web-defacement-playbook/blob/e7afe5304215ef83cf7dd119956f42700e89eab7/assets/Defacement_Example.png
 
+**How to detect:**
+- Visit the website and look for any unexpected changes.
+- Compare with a backup or a known good version.
+- check for new or modified files on the server
+- Monitor File Uploads & Modifications: A sudden spike in the number of uploaded or altered files—especially without approved changes—may indicate a potential web defacement or compromise. Such anomalies should be investigated immediately.
+
+The Sitelock SMART product helps track daily file activity, showing how many files were uploaded or modified each day, making it easier to detect unusual patterns.
+
