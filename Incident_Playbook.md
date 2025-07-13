@@ -1,7 +1,7 @@
 # SOC Paybookbook - Web Defacement Incident
 
 ## Incident Type:
-Website Defacement (Unauthorized modificatio of website content)
+Website Defacement (Unauthorized modification of website content)
 
 ## Objective
 **The primary goals of this playbook are to:**
